@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/bin/Debug/net7.0/01MakeItFail
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/bin/Debug/net7.0/01MakeItFail.deps.json
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/bin/Debug/net7.0/01MakeItFail.runtimeconfig.json
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/bin/Debug/net7.0/01MakeItFail.dll
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/bin/Debug/net7.0/01MakeItFail.pdb
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.AssemblyInfo.cs
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.dll
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/refint/01MakeItFail.dll
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.pdb
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/01MakeItFail.genruntimeconfig.cache
+/Users/fikyfatih/Developer/02DebuggingTechniques/01MakeItFail/obj/Debug/net7.0/ref/01MakeItFail.dll
